@@ -1,1 +1,1 @@
-# summer-project-2020
+# Alumni & Students Web Application
